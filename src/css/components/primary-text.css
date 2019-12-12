@@ -1,0 +1,5 @@
+.primary-text {
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    color: var(--text-color);
+}
