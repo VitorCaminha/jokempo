@@ -1,8 +1,0 @@
-.play-button{
-    color: var(--text-colot);
-    text-decoration: none;
-    font-family: 'Bitter', serif;
-    font-weight: bold;
-    background-color: var(--color-secundary);
-    border-radius: 4px;
-}

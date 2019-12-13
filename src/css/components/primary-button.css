@@ -6,3 +6,8 @@
     background-color: var(--color-secundary);
     border-radius: 4px;
 }
+
+.primary-button.-dark {
+    color: var(--text-color);
+    font-family: 'Bitter', serif;
+}

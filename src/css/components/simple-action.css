@@ -4,3 +4,9 @@
     font-weight: bold;
     text-decoration: none;
 }
+
+.simple-action.-light {
+    color: var(--text-color);
+    font-family: 'Bitter', serif;
+    opacity: 0.4;
+}
