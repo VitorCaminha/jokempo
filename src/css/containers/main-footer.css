@@ -1,0 +1,36 @@
+.main-footer {
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-end;
+    align-items: flex-start;
+    padding: var(--gap-medium) var(--gap-medium);
+
+}
+
+.main-footer > .social-logo {
+    width: 50px;
+    height: 10px;
+    justify-content: space-between;
+}
+
+.main-footer > .social-logo > .simple-action {
+    width: 10px;
+    height: 10px;
+}
+
+
+.main-footer > .dotted-line {
+    width: 100%;
+    height: 0px;
+    border: 0.5px dashed #ffffff;
+    margin: 8px 0;
+}
+
+.main-footer > .footer-text {
+    font-size: 6px;
+    line-height: 7px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: -0.0071em;
+}

@@ -3,6 +3,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+	/* align-items centraliza os itens verticalmente, e o justify-content horizontalmente.
+	Porem, ao modificar o flex-direction de row pra column, todo o eixo da caixa eh rotacionado,
+	fazendo com que as propriedades atuem no sentido contrario!!*/
     height: 80vh;
 }
 
